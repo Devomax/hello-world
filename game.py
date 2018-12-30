@@ -23,5 +23,5 @@ while guess != number:
 		print("Guess higher")
 if guess == number:
 	print("you're right! you win! The number was", number, \
-		  "and it only", tries, "isku day!")
+		  "and it only", tries, "try again!")
 	
